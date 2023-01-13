@@ -12,6 +12,9 @@ user/*
 # ... except config sample
 !user/config-sample.php
 !user/config.php
+!user/db.php
+!user/ez_sql_sqlsrv_yourls.php
+!user/ez_sql_sqlsrv.php
 # ... core plugins
 !user/plugins/hyphens-in-urls/
 !user/plugins/random-bg/
